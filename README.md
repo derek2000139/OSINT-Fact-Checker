@@ -1,8 +1,9 @@
 # OSINT Fact Checker
 
-<p align="right">
-  <a href="README_CN.md"><img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/png100px/cn.png" width="20" height="15" alt="中文"> 中文</a>
-</p>
+<div align="center">
+  <a href="./README_CN.md"><img src="https://img.shields.io/badge/语言-中文-red.svg" alt="中文"></a>
+  <a href="./README.md"><img src="https://img.shields.io/badge/Language-English-blue.svg" alt="English"></a>
+</div>
 
 ---
 
