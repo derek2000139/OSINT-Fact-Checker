@@ -1,6 +1,8 @@
 # OSINT Fact Checker
 
-[🇬🇧 English](README.md)
+<p align="right">
+  <a href="README.md"><img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/png100px/gb.png" width="20" height="15" alt="English"> English</a>
+</p>
 
 ---
 

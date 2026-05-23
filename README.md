@@ -1,6 +1,8 @@
 # OSINT Fact Checker
 
-[🇨🇳 中文版](README_CN.md)
+<p align="right">
+  <a href="README_CN.md"><img src="https://raw.githubusercontent.com/hjnilsson/country-flags/master/png100px/cn.png" width="20" height="15" alt="中文"> 中文</a>
+</p>
 
 ---
 
